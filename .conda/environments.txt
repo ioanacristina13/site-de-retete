@@ -1,0 +1,4 @@
+C:\Users\Ioana\Miniconda3
+C:\Users\Ioana\Miniconda3\envs\ISIA
+C:\Users\Ioana\Miniconda3\envs\gdal
+C:\Users\Ioana\Miniconda3\envs\licenta

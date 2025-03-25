@@ -1,0 +1,647 @@
+# Octave 6.1.0, Tue Jan 12 19:00:36 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Tue Jan 12 19:05:17 2021 GMT <unknown@DESKTOP-DF1CGIE>
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+edit generator_functii.m
+ex1
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+generator_functii
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+edit osciloscop_DCV.m
+edit multimetru_DCV.m
+ex1
+ex1
+ex1
+ex1
+ex1
+edit redresor.m
+edit vizualizare_tensiuni.m
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+edit detector_varf.m
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+ex1
+# Octave 6.1.0, Tue Jan 12 23:06:03 2021 GMT <unknown@DESKTOP-DF1CGIE>
+izofone_octave
+# Octave 6.1.0, Mon Feb 01 22:49:48 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Wed Mar 03 14:59:52 2021 GMT <unknown@DESKTOP-DF1CGIE>
+f
+f
+f
+v=[1 2 3]
+# Octave 6.1.0, Thu Mar 04 11:06:58 2021 GMT <unknown@DESKTOP-DF1CGIE>
+v=[1 2 3]
+a=[1 2 3; 4,5,6; 7,8,9]
+a=rand(6)
+v=1:0.1:10
+v=1:0.1:10;
+b=[1 2 3];
+c=[4 5 6]
+b=[1 2 3]
+b.*c
+x=-5:0.1:5;
+y=x.*x
+x=-5:0.1:5;
+y=x.*x;
+plot(x,y,'b')
+u=0:0.1:5;
+figure, plot(u, u, 'r')
+figure, plot(u, exp(-u.*u), 'b')
+figure, plot(u, u.exp(-u.*u), 'b')
+figure, plot(u, u, 'r'), hold on, plot(u, exp(u, exp(-u.*u), 'b')
+clear all
+clear all
+close all
+pas=0.1;
+t=-2*pi:pas:2*pi;
+f=cos(t);
+df1=-sin(t);
+df2=diff(f)/pas;
+figure(1); plot(t,f,'r')
+figure(1); hold on, plot(t,df1,'r')
+figure(1); hold on, plot(t, df1, 'b')
+figure(2); plot(t, df1, 'o')
+figure(3); plot(t, df2, 'b')
+# Octave 6.1.0, Thu Mar 04 12:01:48 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Thu Mar 04 13:56:05 2021 GMT <unknown@DESKTOP-DF1CGIE>
+edit impuls.m
+impuls
+edit unitate.m
+unitate
+edit treapta.m
+exemplu1PDS
+treapta
+exemplu1PDS
+exemplu1PDS
+ex3
+ex3
+ex3
+exemplul2PDS
+exemplul2PDS
+ex3
+ex3
+# Octave 6.1.0, Thu Mar 11 14:13:33 2021 GMT <unknown@DESKTOP-DF1CGIE>
+ex1
+ex1
+ex1
+ex4_convolutie
+ex4_convolutie
+ex4_convolutie
+ex4_convolutie
+edit treapta.m
+treapta
+ex4_convolutie
+ex4_spectru
+ex4_spectru
+ex4_spectru
+ex4_spectru
+ex4_spectru
+ex4_spectru
+# Octave 6.1.0, Thu Mar 11 16:26:47 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab2
+lab2
+'pkg
+load signal'
+pkg load signal
+lab2
+lab2
+lab2
+treapta
+treapta
+ex2lab2
+ex2lab2
+ex2lab2
+ex2lab2
+ex2lab2
+ex3lab2
+ex3lab2
+ex3lab2
+ex3lab2
+ex3lab2
+pkg load signal
+pkg load signal
+ex3lab2
+ex3lab2
+ex3lab2
+ex3lab2
+ex3lab2
+ex3lab2
+ex3lab2
+ex4lab2
+ex4lab2
+ex4lab2
+ex4lab2
+ex4lab2
+# Octave 6.1.0, Thu Mar 25 16:57:49 2021 GMT <unknown@DESKTOP-DF1CGIE>
+edit impuls.m
+edit impuls.m
+lab1
+l1
+l1
+l1
+l1
+impuls
+impuls
+impuls
+l1
+l1
+l1
+edit treapta.m
+treapta
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+l1
+# Octave 6.1.0, Wed Mar 31 00:03:24 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab3
+pkg load signal
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+lab3
+# Octave 6.1.0, Thu Apr 08 15:35:56 2021 GMT <unknown@DESKTOP-DF1CGIE>
+test
+test
+test
+# Octave 6.1.0, Tue Apr 20 12:22:59 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab4
+lab4
+pkg load signal
+lab4
+lab4
+lab4
+lab4
+lab4
+# Octave 6.1.0, Thu Apr 22 13:54:35 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab41
+lab41
+lab41
+pkg load signal
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+lab41
+# Octave 6.1.0, Thu Apr 22 16:25:28 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Thu Apr 29 00:32:20 2021 GMT <unknown@DESKTOP-DF1CGIE>
+Exercitii
+Exercitii
+Exercitii
+pkg load signal
+Exercitii
+# Octave 6.1.0, Thu Apr 29 19:02:33 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Thu Apr 29 19:40:26 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab5
+pkg load signal
+lab5
+lab5
+lab5
+lab5
+# Octave 6.1.0, Thu May 06 15:07:15 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab6
+pkg load signal
+lab6
+lab6
+# Octave 6.1.0, Thu May 20 15:57:55 2021 GMT <unknown@DESKTOP-DF1CGIE>
+% densitatea de probabilitate Gaussiana de medie mu si dispersie sigma
+% functia de repartitie
+clear all; close all;
+dommin=-20; 
+dommax=20; %intervalul pe care desenez graficele este [dommin;dommax]
+pas=0.01;
+mu=-1;
+sigma=4;
+x=dommin:pas:dommax;
+w=(1/(sigma*sqrt(2*pi)))*exp(-(x-mu).^2/(2*sigma^2)); % % densitatea de probabilitate
+F=cumsum(w)*pas;                                      % o aproximare a functiei de repartitie ca integrala a densitatii de probabilitate
+figure(1); hold on; subplot(1,2,1);plot(x , w, 'k');
+figure(1); hold on; subplot(1,2,2);plot(x , F, 'k');
+L1_var_gauss
+# Octave 6.1.0, Wed May 26 12:59:32 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Wed May 26 20:03:33 2021 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Thu May 27 01:24:23 2021 GMT <unknown@DESKTOP-DF1CGIE>
+L1_var_exp
+L5_ex2
+# Octave 6.1.0, Thu May 27 01:27:22 2021 GMT <unknown@DESKTOP-DF1CGIE>
+L1_var_exp
+L2_hist_var_unif
+sub_1
+L2_hist_var_unif
+sub_5
+sub5_2
+sub5_2
+sub_3
+sub_3
+sub_3
+sub_3_2
+sub_3_2
+sub_6
+sub_4
+sub_9
+sub_9
+sub_9
+sub_9
+sub_7
+sub_7
+sub_8
+# Octave 6.1.0, Thu May 27 12:21:28 2021 GMT <unknown@DESKTOP-DF1CGIE>
+k = [-0.2 0.65 -0.87]
+[b,a] = latc2tf(k,'allpole')
+[b3,a3] = latc2tf(k,'iir')
+pkg load signal
+k = [-0.2 0.65 -0.87]
+[b,a] = latc2tf(k,'allpole')
+[b3,a3] = latc2tf(k,'iir')
+k = [-0.2 0.65 -0.87]
+[b,a] = iir2latice(k,'allpole')
+[b3,a3] = iir2latice(k,'iir')
+edit poly2rc.m
+iir2latice
+k = [-0.2 0.65 -0.87]
+[b,a] = iir2latice(k,'allpole')
+[b3,a3] = iir2latice(k,'iir')
+Laborator5
+k = [-0.2 0.65 -0.87]
+[b,a] = iir2latice(k,'allpole')
+[b3,a3] = iir2latice(k,'iir')
+Laborator5
+Laborator5
+Lab6
+Lab6
+pkg load signal
+Lab6
+Lab6
+pb2
+pb2
+pb2
+pb2
+pb2
+pb2
+pb2
+pb2
+pb2
+Lab6
+pb2
+pb2
+pb2
+pb2
+pb2
+Fs=31000;
+L=4;
+x(n) = 1.2*cos(0.17*pi*n);
+y=interp(x, L);
+subplot(311),stem(0:10,x(1:11)),grid;
+subplot(312),stem(0:L*10,xe(1:L*10+1)),grid;
+Laborator5
+Laborator5
+Laborator5
+pb2
+Fs=31000;
+L=4;
+x(n) = 1.2*cos(0.17*pi*n);
+%realizare expandare
+xe = zeros(1,L*N);
+xe(1:L:L*N) = x;
+%reprezentare semnal
+figure(1)
+subplot(311),stem(0:10,x(1:11)),grid;
+subplot(312),stem(0:L*10,xe(1:L*10+1)),grid;
+pb2
+pb2
+pb2
+# Octave 6.1.0, Thu May 27 20:16:42 2021 GMT <unknown@DESKTOP-DF1CGIE>
+mama
+mama
+mama
+pkg loat signal
+pkg load signal
+mama
+mama
+# Octave 6.1.0, Mon May 31 17:32:17 2021 GMT <unknown@DESKTOP-DF1CGIE>
+edit impuls.m
+impuls
+ex1lab1
+ex1lab1
+ex1lab1
+ex2lab1
+convlab1
+convlab1
+lab1
+lab1
+lab2
+lab2
+# Octave 6.1.0, Mon May 31 23:29:53 2021 GMT <unknown@DESKTOP-DF1CGIE>
+pkg load signal
+subiecte_part2
+Subiecte_model
+Subiecte_model
+Subiecte_model
+colocviu
+colocviu
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+colocviu_pds
+# Octave 6.1.0, Wed Jun 02 19:25:26 2021 GMT <unknown@DESKTOP-DF1CGIE>
+lab1_1
+lab1_1
+lab1_1
+lab1_1
+lab1_1
+lab1_1
+lab1_1
+lab1_1
+lab1_3
+lab1_4
+lab1_4
+K*inv_K
+mod(K, inv_K, 26)
+mod(inv_K, 26)
+mod(K*inv_K, 26)
+# Octave 6.1.0, Tue Mar 01 10:17:17 2022 GMT <unknown@DESKTOP-DF1CGIE>
+lab2_1
+lab2_1
+lab2_1
+lab2_1
+lab2_1
+lab2_2
+lab2_3
+# Octave 6.1.0, Tue Mar 15 09:44:58 2022 GMT <unknown@DESKTOP-DF1CGIE>
+# Octave 6.1.0, Tue Mar 15 09:56:05 2022 GMT <unknown@DESKTOP-DF1CGIE>
+lab_3_11
+lab_3_12
+lab_3_13
+lab_3_14
+lab_3_2
+lab_3_2
+lab_3_2
+lab_3_3
+# Octave 6.1.0, Tue Mar 29 09:58:09 2022 GMT <unknown@DESKTOP-DF1CGIE>
+lab1_3
+lab2_1
+lab2_1
+lab2_1
+lab_3_11
+lab_3_11
+lab_3_11
+lab_3_12
+lab_3_12
+lab_3_12
+lab_3_12
+lab1_3
+lab2_1
+lab1_1
+lab1_1
+lab1_1
+lab_3_11
+lab_3_11
+lab1_2
+lab1_1
+lab1_1
+# Octave 6.1.0, Mon Apr 11 20:31:37 2022 GMT <unknown@DESKTOP-DF1CGIE>
+lab_3_11_Vigenere
+lab_3_11_Vigenere
+lab_3_11_Vigenere
+lab_3_11_Vigenere
+lab_3_11_Vigenere
+lab1_3_afina
+lab2_1_transpozitie
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab_3_11_Vigenere
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_3_afina
+# Octave 6.1.0, Mon Apr 11 22:14:40 2022 GMT <unknown@DESKTOP-DF1CGIE>
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_1_CEZAR
+lab1_3_afina
+lab1_3_afina
+lab1_3_afina
+lab1_3_afina
+lab1_3_afina
+lab_3_11_Vigenere
+lab_3_11_Vigenere
+lab_3_11_Vigenere
+lab2_1_transpozitie
+lab2_1_transpozitie
+lab2_1_transpozitie
+lab2_1_transpozitie
+lab2_1_transpozitie
+lab2_1_transpozitie
+lab2_1_transpozitie
+# Octave 6.1.0, Tue Apr 12 09:07:15 2022 GMT <unknown@DESKTOP-DF1CGIE>
+lab4
+# Octave 6.1.0, Tue Apr 12 09:36:21 2022 GMT <unknown@DESKTOP-DF1CGIE>
+sample1
+sample1
+sample1
+sample1
+37*473
+/MOD(1592)
+mod(17501,1592)
+modulo(17501,1592)
+# Octave 6.1.0, Tue May 10 10:41:26 2022 GMT <unknown@HPL>
+/MOD(1592)
+euclid_extins_lab_5
+euclid_extins(307, 89029)
+euclid_extins_lab_5(307, 98029)
+euclid_extins_lab_5
+euclid_extins_lab_5
+extended_euclid
+colocviu
+colocviu
+sample1
+sample1
+sample1
+sample1
+extended_euclid
+sample1
+colocviu
+colocviu
+colocviu
+sample1
+sample1
+# Octave 6.1.0, Sat May 21 21:54:20 2022 GMT <unknown@HPL>
+# Octave 6.1.0, Sat May 21 22:08:13 2022 GMT <unknown@HPL>
+colocviu
+colocviu
+colocviu
+# Octave 6.1.0, Mon May 23 00:21:55 2022 GMT <unknown@HPL>
+# Octave 6.1.0, Mon May 23 14:45:55 2022 GMT <unknown@HPL>
+sample1
+sample1
+sample1
+colocviu
+colocviu
+colocviu
+colocviu
+colocviu
+# Octave 6.1.0, Tue May 24 10:31:35 2022 GMT <unknown@HPL>
